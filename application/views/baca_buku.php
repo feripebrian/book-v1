@@ -6,7 +6,7 @@
             	<?php foreach($baca as $baca_buku){?>
             	<div class="single-post">
                   <div class="blog_details">
-                    <h2>Baca Buku</h2>
+                    <h2>Baca Buku</h2> 
 
 
                   	<!-- <embed src="<?php echo $baca_buku['file']?>" width="100%" height="1100px" /> -->
